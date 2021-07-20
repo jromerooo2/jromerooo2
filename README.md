@@ -5,7 +5,7 @@
 <li>🎯 I’m currently working and learning more about about C#, .NET, Vue Js and Laravel!</li>
 <li>📫 How to reach me?, here's my e-mail: hellojuancho75@gmail.com</li>
  </ul>
-![image](https://user-images.githubusercontent.com/75763058/126407720-31b828c5-2601-4f8f-a109-1bae04b3ca26.png)
+![image](https://user-images.githubusercontent.com/75763058/126407760-44ecc7c2-b7ff-4ab9-9286-8cddd58dfa99.png)
 
 
 <!---
