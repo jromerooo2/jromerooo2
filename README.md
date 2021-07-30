@@ -7,8 +7,7 @@
  </ul>
 
 ![image](https://github-readme-stats.vercel.app/api?username=jromerooo2&show_icons=true&theme=radical)
-
-https://github-profile-trophy-74jwhjwfo-ryo-ma.vercel.app/?username=jromerooo2
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jromerooo2&theme=radical)](https://git.io/streak-stats)
 <!---
 jromerooo2/jromerooo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
