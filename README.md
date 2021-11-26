@@ -2,7 +2,7 @@
 <h3>A 16 years old, passionate, problem-solver and lifelong learner software developer from El Salvador🦾🔥!</h3>
 <ul>
 <li>👀 I’m interested in Music, programming, cybersecurity  and learning new things!</li>
-<li>🎯 I’m currently working and learning more about about C#, .NET, Vue Js and Laravel!</li>
+<li>🎯 I’m currently working and learning more about about ReactsJs, Solidity, Vue Js and Laravel!</li>
 <li>📫 How to reach me?, here's my e-mail: hellojuancho75@gmail.com</li>
  </ul>
 
