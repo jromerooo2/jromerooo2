@@ -1,7 +1,7 @@
 <h1 class="text-center">Hi!👋, I’m Juan Romero!</h1>
 <h3>A 16 years old, passionate, problem-solver and lifelong learner software developer from El Salvador🦾🔥!</h3>
 <ul>
-<li>👀 I’m interested in Music, programming, cybersecurity  and learning new things!</li>
+<li>👀 I’m interested in Music, programming, cybersecurity, blockchain  and learning new things!</li>
 <li>🎯 I’m currently working and learning more about about ReactsJs, Solidity, Vue Js and Laravel!</li>
  <li>👨‍💻 My skills include: Git, C#, SQL, Nosql,Python, PHP, NodeJS, VueJS and React. </li>
 <li>📫 How to reach me?, here's my e-mail: hellojuancho75@gmail.com</li>
