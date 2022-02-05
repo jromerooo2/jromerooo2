@@ -2,7 +2,7 @@
 <h3>A software developer from El Salvador🔥</h3>
 
 <ul>
-<li>👀 I’m interested in Music, programming,design, hacking, blockchain  and learning new things!</li>
+<li>👀 I’m interested in music, programming,design, hacking, blockchain  and learning new things!</li>
 <li>📫 How to reach me?, here's my e-mail: hellojuancho75@gmail.com</li>
  </ul>
 
