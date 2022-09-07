@@ -1,5 +1,5 @@
 <h1 class="text-center">Hi👋, I’m Juan Romero!</h1>
-<h3>A 17 years old software developer from El Salvador🔥</h3>
+<h3>A software developer from El Salvador🔥</h3>
 
 <ul>
 <li>👀 I’m interested in music, programming,design, hacking, blockchain  and learning new things!</li>
