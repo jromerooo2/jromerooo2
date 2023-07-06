@@ -7,8 +7,6 @@
  </ul>
 
 
-![image](https://github-readme-stats.vercel.app/api?username=jromerooo2&show_icons=true&theme=radical)
-
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 <!---
 jromerooo2/jromerooo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
